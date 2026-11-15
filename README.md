@@ -1,2 +1,2 @@
-# ladderlogic
-ladder logic diagraming
+# Magic Mirror
+My Magic Mirror Configurations
